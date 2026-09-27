@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+temp_frames/
+temp_scenes/
+output_videos/
+*.mp4
+
+*.pt
+
+.env
+venv/
+.venv/
